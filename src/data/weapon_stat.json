@@ -1,7 +1,32 @@
 [
     {
         "item_id"     :1,
+        "damage"      :50,
+        "sharpness"   :10,
+        "Element"     :"Wood"
+    },
+    {
+        "item_id"     :2,
         "damage"      :100,
-        "sharpness"   :30
+        "sharpness"   :30,
+        "Element"     :"Metal"
+    },
+    {
+        "item_id"     :3,
+        "damage"      :100,
+        "sharpness"   :30,
+        "Element"     :"Poison"
+    },
+    {
+        "item_id"     :4,
+        "damage"      :100,
+        "sharpness"   :30,
+        "Element"     :"Fire"
+    },
+    {
+        "item_id"     :5,
+        "damage"      :100,
+        "sharpness"   :30,
+        "Element"     :"Light"
     }
 ]

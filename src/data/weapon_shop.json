@@ -1,0 +1,32 @@
+[
+    {
+        "item_id"      : 1,
+        "product_name" : "Wooden Sword",
+        "product_price" : 60,
+        "type"         : "weapon"
+    },
+    {
+        "item_id"      : 2,
+        "product_name" : "Iron Sword",
+        "product_price" : 100,
+        "type"         : "weapon"
+    },
+    {
+        "item_id"      : 3,
+        "product_name" : "Toxin dagger",
+        "product_price" : 180,
+        "type"         : "weapon"
+    },
+    {
+        "item_id"      : 4,
+        "product_name" : "Fire Axe",
+        "product_price" : 120,
+        "type"         : "weapon"
+    },
+    {
+        "item_id"      : 5,
+        "product_name" : "Light Spear",
+        "product_price" : 500,
+        "type"         : "weapon"
+    }
+]
