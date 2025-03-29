@@ -1,0 +1,20 @@
+{
+  "name": "vercelworkshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanawatBank/VercelWorkshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThanawatBank/VercelWorkshop/issues"
+  },
+  "homepage": "https://github.com/ThanawatBank/VercelWorkshop#readme"
+}
