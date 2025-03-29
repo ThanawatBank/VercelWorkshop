@@ -1,4 +1,5 @@
 const http = require('http')
+const get = require('./api/get')
 //-----------------------------------------------
 const PORT = 9799
 //-----------------------------------------------
@@ -6,7 +7,7 @@ function onClientReq(request , response)
 {
     response.writeHead( 200 )
 
-    response.write('Hello World 2210511105008')
+    response.write(get(request))
 
     response.end()
 

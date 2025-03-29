@@ -1,0 +1,14 @@
+[
+    {
+        "item_id"      : 1,
+        "product_name" : "Red Potion",
+        "product_price" : 60,
+        "type"         : "consume"
+    },
+    {
+        "item_id"      : 1,
+        "product_name" : "Sword",
+        "product_price" : 150,
+        "type"         : "weapon"
+    }
+]
