@@ -1,5 +1,5 @@
-const data_shop = require('../data/weapon_shop.json')
-const weapon_stat = require('../data/weapon_stat.json')
+const data_shop = require('../data/weapon_shop')
+const weapon_stat = require('../data/weapon_stat')
 //-----------------------------------------------
 function get(request)
 {

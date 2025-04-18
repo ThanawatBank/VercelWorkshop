@@ -14,6 +14,8 @@ function collectBodyData(request)
             }catch(excp){
                 console.log('Error !!!!!\n')
                 console.log(excp)
+                console.log("------")
+                console.log(body)
                 resolve({})
             }
         })
