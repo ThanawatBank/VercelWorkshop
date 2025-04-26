@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ThanawatBank/VercelWorkshop/issues"
   },
-  "homepage": "https://github.com/ThanawatBank/VercelWorkshop#readme"
+  "homepage": "https://github.com/ThanawatBank/VercelWorkshop#readme",
+  "dependencies": {
+    "mongodb": "^6.16.0"
+  }
 }
